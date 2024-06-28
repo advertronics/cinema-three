@@ -1,7 +1,7 @@
 import React from "react"
-import RegisterForm from "@/app/components/RegisterForm"
 
 import "./register.css"
+import RegisterForm from "../../components/RegisterForm"
 
 const Register = () => {
   return (
